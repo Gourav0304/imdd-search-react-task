@@ -1,0 +1,1 @@
+export { UserDetailedView } from './UserDetails'
